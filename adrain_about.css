@@ -1,0 +1,149 @@
+body{
+    margin:0px;
+    padding:0px;
+    background-color:#eeeeed;
+    text-decoration: none;
+}
+.nav_wrap{
+    background-color:rgba(255, 255, 255, 0.904);
+    border:1px solid #EBEBEB;
+    line-height: 3.3em;
+    height:.3.1em ;
+    padding: 0px 13.15em;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    backdrop-filter: blur(20px);
+    z-index: 1;
+    text-decoration: none;
+    -webkit-box-shadow: 0px 1px 3px -1px rgba(0,0,0,0.85);
+    -moz-box-shadow: 0px 1px 3px -1px rgba(0,0,0,0.85);
+     box-shadow: 0px 1px 3px -1px rgba(0,0,0,0.85);
+}
+.logo_link{
+    text-decoration: none;
+}
+.logo_link img{
+    vertical-align: middle;
+    padding: 10px;
+}
+.nav_link{
+    margin-left: 2em;
+    vertical-align: middle;
+    font-size: 17px;
+}
+.nav_link a{
+    margin-left:60px;
+    color: #616060;
+    text-decoration: none;
+}
+.nav_link a:hover{
+    color: black;
+}
+.clear{
+    clear: both;
+}
+.footer{
+    width:100%px;
+    height:300px;
+    background: rgb(243, 241, 241);
+    border:1px solid #dbdbdb;
+}
+
+
+.c{
+    text-align: center;
+    margin-top: 40px;
+    color:#616060;
+}
+
+.g1{
+    float: left;
+    margin-left: 300px;
+    margin-top: 50px;
+    color:#616060;
+    list-style-type: none;
+}
+.g1 ul li{
+    padding-top: 10px;
+    list-style-type: none;
+}
+.g2{
+    float: left;
+    margin-top: 50px;
+    margin-left: 100px;
+    color:#616060;
+    list-style-type: none;
+}
+.g2 ul li{
+    padding-top: 10px;
+    list-style-type: none;
+}
+.g3{
+    float: left;
+    margin-top: 50px;
+    margin-left: 100px;
+    color:#616060;
+    list-style-type: none;
+
+}
+
+.g3 ul li {
+        padding-top: 10px;
+        list-style-type: none;
+}
+
+
+.conaint{
+    width: 100%px;
+    height: 900px;
+    background: white;
+    padding: 100px;
+    list-style-type: none;
+}
+
+.banner{
+    margin-left: 230px;
+    margin-top: 20px;
+}
+.lo{
+    text-align: center;
+    font-size: 30px;
+}
+
+.wd{
+    width: 900px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.wd1{
+    width: 900px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.team{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
+
+}
+.founder{
+    margin-left: 520px;
+    margin-top: 40px;
+}
+.wd2{
+    text-align: center;
+}
+
+
+
+
+
+
+  

@@ -1,0 +1,160 @@
+body{
+    margin:0px;
+    padding:0px;
+    background-color:#eeeeed;
+    text-decoration: none;
+}
+.nav_wrap{
+    background-color:rgba(255, 255, 255, 0.904);
+    border:1px solid #EBEBEB;
+    line-height: 3.3em;
+    height:.3.1em ;
+    padding: 0px 13.15em;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    backdrop-filter: blur(20px);
+    z-index: 1;
+    text-decoration: none;
+    -webkit-box-shadow: 0px 1px 3px -1px rgba(0,0,0,0.85);
+    -moz-box-shadow: 0px 1px 3px -1px rgba(0,0,0,0.85);
+     box-shadow: 0px 1px 3px -1px rgba(0,0,0,0.85);
+}
+.logo_link{
+    text-decoration: none;
+}
+.logo_link img{
+    vertical-align: middle;
+    padding: 10px;
+}
+.nav_link{
+    margin-left: 2em;
+    vertical-align: middle;
+    font-size: 17px;
+}
+.nav_link a{
+    margin-left:60px;
+    color: #616060;
+    text-decoration: none;
+}
+.nav_link a:hover{
+    color: black;
+}
+.clear{
+    clear: both;
+}
+.footer{
+    width:100%px;
+    height:300px;
+    background: rgb(243, 241, 241);
+    border:1px solid #dbdbdb;
+}
+
+
+.c{
+    text-align: center;
+    margin-top: 40px;
+    color:#616060;
+}
+
+.g1{
+    float: left;
+    margin-left: 300px;
+    margin-top: 50px;
+    color:#616060;
+    list-style-type: none;
+}
+.g1 ul li{
+    padding-top: 10px;
+    list-style-type: none;
+}
+.g2{
+    float: left;
+    margin-top: 50px;
+    margin-left: 100px;
+    color:#616060;
+    list-style-type: none;
+}
+.g2 ul li{
+    padding-top: 10px;
+    list-style-type: none;
+}
+.g3{
+    float: left;
+    margin-top: 50px;
+    margin-left: 100px;
+    color:#616060;
+    list-style-type: none;
+
+}
+
+.g3 ul li {
+        padding-top: 10px;
+        list-style-type: none;
+}
+
+
+.conaint{
+    width: 100%px;
+    height: 950px;
+    background: white;
+
+}
+ 
+.paragra h4 p {
+	margin-top:40px;
+	margin-bottom:40px;
+	padding:40px;
+	text-align:center;
+    width: 800px;
+    margin-left: 250px;
+    color: rgb(97, 95, 95);
+}
+.clear{
+	clear:both;
+}
+.paragra ul li {
+	text-align:center;
+    margin-bottom: 20px;
+    color: rgb(97, 95, 95);
+    list-style-type: none;
+}
+.about{
+    margin-top: 90px;
+}
+.about h1{
+    text-align: center;
+    padding-top: 40px;
+}
+
+.commet label {
+	float:left;
+	width:100px;
+
+}
+.commet{
+    width: 400px;
+    margin-left: 450px;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
